@@ -91,7 +91,7 @@ if [[ "${_docs}" == "true" ]]; then
 fi
 pkgver="0.0.0.0.0.0.0.0.0.1"
 _commit="f4c70bf861644638e08bd331c41c9183c0b13edf"
-pkgrel=3
+pkgrel=4
 _pkgdesc=(
   "Solidity compiler supporting multiple backends."
 )
